@@ -1,6 +1,6 @@
 <br><br><br><br>
 
-<p align="center"><em>(This area is intentionally left blank. (Really?))</em></p>
+<p align="center"><em>(This area is intentionally left blank.)</em><br>(Really?)</p>
 
 <br><br><br><br>
 
