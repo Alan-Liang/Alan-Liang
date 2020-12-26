@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: look for my contact information in GitHub!
 - 😄 Pronouns: he/she/it/<img src onerror=alert(/xss/)>
 - ⚡ Fun fact: not an OIer.
+
+My real name: run the command below (replace MY_NAME_HERE with my real name)
+echo -n 'MY_NAME_HERE is the name of https://github.com/Alan-Liang' | sha256sum
+if you get `c6fa36cf7f433c642d4d9403e0f2e87f0da9da06386e241fbb185d2a69904ae6` - it's really my name!
 -->
