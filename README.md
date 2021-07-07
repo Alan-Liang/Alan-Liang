@@ -11,11 +11,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the physics olympiad and KEEER Vote.
-- 🌱 I’m currently learning Haskell and maybe a bit of Rust.
-- 👯 I’m looking to collaborate on Gaokao.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything.
+- 🔭 I’m currently working on ATTAPL.
+- 🌱 I’m currently learning to drive.
+- 👯 I’m looking to collaborate on Free Software.
+- 🤔 I’m looking for help with choosing my next laptop. (My current choice is Lenovo ThinkBook 16p.)
+- 💬 Ask me anything.
 - 📫 How to reach me: look for my contact information in GitHub!
 - 😄 Pronouns: he/she/it/<img src onerror=alert(/xss/)>
 - ⚡ Fun fact: not an OIer.
